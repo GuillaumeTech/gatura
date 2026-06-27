@@ -1,0 +1,85 @@
+{
+glyphname = E;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(184,700,l),
+(184,0,l),
+(89,0,l),
+(89,700,l)
+);
+},
+{
+pos = (200,0);
+ref = _part.foot;
+scale = (-1,1);
+},
+{
+angle = 180;
+pos = (200,700);
+ref = _part.foot;
+},
+{
+closed = 1;
+nodes = (
+(433,425,l),
+(433,335,l),
+(184,335,l),
+(184,425,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(463,90,l),
+(463,0,l),
+(184,0,l),
+(184,90,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(463,700,l),
+(463,610,l),
+(184,610,l),
+(184,700,l)
+);
+},
+{
+angle = 90;
+pos = (463,-21);
+ref = _part.foot;
+},
+{
+angle = 90;
+pos = (433,355);
+ref = _part.foot;
+scale = (0.6298,0.8466);
+},
+{
+angle = 90;
+pos = (463,721);
+ref = _part.foot;
+scale = (-1,1);
+},
+{
+angle = 90;
+pos = (433,405);
+ref = _part.foot;
+scale = (-0.6298,0.8466);
+}
+);
+width = 503;
+}
+);
+metricLeft = H;
+metricRight = H;
+unicode = 69;
+}

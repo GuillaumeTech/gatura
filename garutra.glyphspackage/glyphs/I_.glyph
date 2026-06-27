@@ -1,0 +1,43 @@
+{
+glyphname = I;
+kernLeft = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(184,700,l),
+(184,0,l),
+(89,0,l),
+(89,700,l)
+);
+},
+{
+pos = (73,0);
+ref = _part.foot;
+},
+{
+pos = (200,0);
+ref = _part.foot;
+scale = (-1,1);
+},
+{
+pos = (73,700);
+ref = _part.foot;
+scale = (1,-1);
+},
+{
+angle = 180;
+pos = (200,700);
+ref = _part.foot;
+}
+);
+width = 273;
+}
+);
+metricLeft = H;
+metricRight = H;
+unicode = 73;
+}

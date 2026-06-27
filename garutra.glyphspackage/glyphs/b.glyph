@@ -1,0 +1,36 @@
+{
+glyphname = b;
+kernLeft = l;
+kernRight = o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (489,0);
+ref = _part.circular_base;
+scale = (-1,1);
+},
+{
+alignment = -1;
+pos = (15,368);
+ref = _part.lowercase_stem;
+},
+{
+pos = (37,355);
+ref = _part.cap;
+},
+{
+pos = (183,0);
+ref = _part.foot;
+scale = (-1,1);
+}
+);
+width = 489;
+}
+);
+metricLeft = n;
+metricRight = o;
+unicode = 98;
+}

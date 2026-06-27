@@ -1,0 +1,49 @@
+{
+glyphname = q;
+kernLeft = o;
+kernRight = q;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-1);
+ref = _part.circular_base;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (474,-1);
+ref = _part.lowercase_stem;
+scale = (1,0.6548);
+},
+{
+pos = (443,-240);
+ref = _part.foot;
+scale = (-1,1);
+},
+{
+pos = (306,-240);
+ref = _part.foot;
+},
+{
+closed = 1;
+nodes = (
+(332,388,l),
+(332,352,l),
+(417,352,l),
+(417,361,o),
+(428,364,o),
+(443,362,c),
+(445,370,l)
+);
+}
+);
+width = 488;
+}
+);
+metricLeft = o;
+metricRight = n;
+unicode = 113;
+}

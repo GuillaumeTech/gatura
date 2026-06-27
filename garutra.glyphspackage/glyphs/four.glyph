@@ -1,0 +1,48 @@
+{
+glyphname = four;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(373,0,l),
+(458,0,l),
+(458,565,l),
+(373,565,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(68,251,l),
+(166,251,l),
+(458,565,l),
+(458,690,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(556,211,l),
+(555,296,l),
+(108,296,l),
+(30,211,l)
+);
+},
+{
+pos = (347,0);
+ref = _part.foot;
+},
+{
+pos = (484,0);
+ref = _part.foot;
+scale = (-1,1);
+}
+);
+width = 586;
+}
+);
+unicode = 52;
+}

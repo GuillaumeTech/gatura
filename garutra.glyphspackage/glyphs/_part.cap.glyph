@@ -1,0 +1,24 @@
+{
+export = 0;
+glyphname = _part.cap;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(120,401,l),
+(120,365,l),
+(35,365,l),
+(35,374,o),
+(24,377,o),
+(9,375,c),
+(7,383,l)
+);
+}
+);
+width = 397;
+}
+);
+}

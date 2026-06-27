@@ -1,0 +1,27 @@
+{
+export = 0;
+glyphname = _part.lowercase_stem;
+layers = (
+{
+anchors = (
+{
+name = origin;
+pos = (142,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(142,365,l),
+(142,0,l),
+(57,0,l),
+(57,365,l)
+);
+}
+);
+width = 449;
+}
+);
+}

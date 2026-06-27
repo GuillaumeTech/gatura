@@ -1,0 +1,133 @@
+{
+glyphname = f;
+kernRight = f;
+layers = (
+{
+anchors = (
+{
+name = connect;
+pos = (166,483);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(167,418,l),
+(259,418,l),
+(259,493,l),
+(167,493,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(20,418,l),
+(82,418,l),
+(82,493,l),
+(20,493,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(167,0,l),
+(167,497,l),
+(82,497,l),
+(82,0,l)
+);
+},
+{
+pos = (47,0);
+ref = _part.little_foot;
+},
+{
+pos = (202,0);
+ref = _part.little_foot;
+scale = (-1,1);
+},
+{
+attr = {
+strokeWidth = 85;
+};
+closed = 0;
+nodes = (
+(264,681,l),
+(181,747,o),
+(124,687,o),
+(124,638,c),
+(124,497,l)
+);
+}
+);
+width = 292;
+},
+{
+anchors = (
+{
+name = connect;
+pos = (169,483);
+}
+);
+associatedMasterId = m01;
+layerId = "B4E2A9DF-DB24-40E4-80A9-82F4D6E517B6";
+name = "Jun 12, 26 at 11:03";
+shapes = (
+{
+closed = 1;
+nodes = (
+(170,418,l),
+(262,418,l),
+(262,493,l),
+(170,493,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(23,418,l),
+(85,418,l),
+(85,493,l),
+(23,493,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(170,0,l),
+(170,497,l),
+(85,497,l),
+(85,0,l)
+);
+},
+{
+pos = (50,0);
+ref = _part.little_foot;
+},
+{
+pos = (205,0);
+ref = _part.little_foot;
+scale = (-1,1);
+},
+{
+attr = {
+strokeWidth = 85;
+};
+closed = 0;
+nodes = (
+(262,668,l),
+(152,702,o),
+(127,676,o),
+(127,633,c),
+(127,497,l)
+);
+}
+);
+width = 600;
+}
+);
+metricLeft = t;
+metricRight = t;
+unicode = 102;
+}

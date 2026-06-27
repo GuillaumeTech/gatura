@@ -1,0 +1,62 @@
+{
+glyphname = m;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (3,0);
+ref = _part.lowercase_stem;
+},
+{
+pos = (25,0);
+ref = _part.cap;
+},
+{
+pos = (1,0);
+ref = _part.arch;
+scale = (0.9106,1);
+},
+{
+pos = (25,0);
+ref = _part.little_foot;
+},
+{
+pos = (180,0);
+ref = _part.little_foot;
+scale = (-1,1);
+},
+{
+pos = (238,0);
+ref = _part.little_foot;
+},
+{
+pos = (401,0);
+ref = _part.little_foot;
+scale = (-1,1);
+},
+{
+pos = (216,0);
+ref = _part.arch;
+scale = (0.9106,1);
+},
+{
+pos = (453,0);
+ref = _part.little_foot;
+},
+{
+pos = (616,0);
+ref = _part.little_foot;
+scale = (-1,1);
+}
+);
+width = 632;
+}
+);
+metricLeft = n;
+metricRight = n;
+unicode = 109;
+}

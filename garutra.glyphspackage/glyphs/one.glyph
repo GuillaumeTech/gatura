@@ -1,0 +1,39 @@
+{
+glyphname = one;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(112,0,l),
+(197,0,l),
+(197,700,l),
+(112,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(70,585,l),
+(152,635,l),
+(112,699,l),
+(30,649,l)
+);
+},
+{
+pos = (86,0);
+ref = _part.foot;
+},
+{
+pos = (223,0);
+ref = _part.foot;
+scale = (-1,1);
+}
+);
+width = 276;
+}
+);
+unicode = 49;
+}

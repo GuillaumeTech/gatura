@@ -1,0 +1,40 @@
+{
+glyphname = p;
+kernRight = o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (489,-1);
+ref = _part.circular_base;
+scale = (-1,1);
+},
+{
+alignment = -1;
+pos = (15,-1);
+ref = _part.lowercase_stem;
+scale = (1,-0.6548);
+},
+{
+pos = (46,-240);
+ref = _part.foot;
+},
+{
+pos = (183,-240);
+ref = _part.foot;
+scale = (-1,1);
+},
+{
+pos = (37,2);
+ref = _part.cap;
+}
+);
+width = 489;
+}
+);
+metricLeft = n;
+metricRight = o;
+unicode = 112;
+}

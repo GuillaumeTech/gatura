@@ -1,0 +1,33 @@
+{
+export = 0;
+glyphname = _part.little_foot;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+fill = "1";
+identifier = ID0x28cee0fe0;
+};
+closed = 1;
+nodes = (
+(120,4,o),
+(141,13,o),
+(157,8,cs),
+(157,8,o),
+(157,0,o),
+(157,0,cs),
+(131,0,o),
+(156,0,o),
+(120,0,cs),
+(120,0,o),
+(120,21,o),
+(120,44,c)
+);
+}
+);
+width = 397;
+}
+);
+}
