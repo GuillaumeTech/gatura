@@ -1,5 +1,5 @@
 # Gatura
-A geometric serif for display purposes, currently there is 67 glyphs: uppercase, lowercase, numbers and !?-.,
+A geometric serif for display purposes, currently there are 67 glyphs: uppercase, lowercase, numbers and !?-.,
 
 ## Specimen
 ![specimen](specimen.png)
